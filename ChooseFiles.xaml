@@ -1,0 +1,25 @@
+﻿<Window x:Class="FileComparisonIgnou.ChooseFiles"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FileComparisonIgnou"
+        mc:Ignorable="d"
+        Title="Advanced File Comparison Application (IGNOU)" Height="300" Width="550" MinWidth="550" MinHeight="300" MaxWidth="550" MaxHeight="300" ResizeMode="NoResize">
+    <Grid x:Name="___No_Name_">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="7*"/>
+            <ColumnDefinition Width="92*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="ChooseFile1" Content="Choose File 1" HorizontalAlignment="Left" Margin="362,74,0,0" VerticalAlignment="Top" Width="110" Grid.Column="1" Height="25" BorderBrush="#FF150A0A" Background="#FFD1CECE" Foreground="#FF080707" RenderTransformOrigin="0.474,0.084" Click="ChooseFile1_Click"/>
+        <Button x:Name="ChooseFile2" Content="Choose File 2" HorizontalAlignment="Left" Margin="362,119,0,0" VerticalAlignment="Top" Width="110" Grid.Column="1" Height="24" Background="#FFCFCECE" Foreground="#FF0C0808" Click="ChooseFile2_Click"/>
+        <TextBox x:Name="SelectFile1" HorizontalAlignment="Left" Height="25" Margin="63,74,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="257" SpellCheck.IsEnabled="True" Grid.Column="1"/>
+        <TextBox x:Name="SelectFile2" HorizontalAlignment="Left" Height="24" Margin="63,119,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="257" Grid.Column="1"/>
+        <Label x:Name="A_Base" Content="A (Base):" HorizontalAlignment="Left" Margin="10,74,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="67" Height="25"/>
+        <Label x:Name="B" Content="B:" HorizontalAlignment="Left" Margin="10,119,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.004,-0.35" Grid.ColumnSpan="2" Height="24" Width="67"/>
+        <Button Content="Ok" Grid.Column="1" HorizontalAlignment="Left" Margin="216,222,0,0" VerticalAlignment="Top" Width="104" Click="StartComparision_Click"/>
+        <Button x:Name="Cancel" Content="Cancel" Grid.Column="1" HorizontalAlignment="Left" Margin="362,222,0,0" VerticalAlignment="Top" Width="110" Click="Cancel_Click"/>
+        <Label x:Name="MessageLabel" Content="" Grid.Column="1" HorizontalAlignment="Left" Margin="63,175,0,0" VerticalAlignment="Top" Width="409"/>
+
+    </Grid>
+</Window>

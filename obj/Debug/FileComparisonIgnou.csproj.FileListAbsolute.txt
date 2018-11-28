@@ -1,0 +1,17 @@
+C:\Users\Sunny\source\repos\FileComparisonIgnou\FileComparisonIgnou\bin\Debug\FileComparisonIgnou.exe.config
+C:\Users\Sunny\source\repos\FileComparisonIgnou\FileComparisonIgnou\bin\Debug\FileComparisonIgnou.exe
+C:\Users\Sunny\source\repos\FileComparisonIgnou\FileComparisonIgnou\bin\Debug\FileComparisonIgnou.pdb
+C:\Users\Sunny\source\repos\FileComparisonIgnou\FileComparisonIgnou\obj\Debug\FileComparisonIgnou.csprojAssemblyReference.cache
+C:\Users\Sunny\source\repos\FileComparisonIgnou\FileComparisonIgnou\obj\Debug\App.g.cs
+C:\Users\Sunny\source\repos\FileComparisonIgnou\FileComparisonIgnou\obj\Debug\FileComparisonIgnou_MarkupCompile.cache
+C:\Users\Sunny\source\repos\FileComparisonIgnou\FileComparisonIgnou\obj\Debug\FileComparisonIgnou_MarkupCompile.lref
+C:\Users\Sunny\source\repos\FileComparisonIgnou\FileComparisonIgnou\obj\Debug\FileComparisonIgnou.g.resources
+C:\Users\Sunny\source\repos\FileComparisonIgnou\FileComparisonIgnou\obj\Debug\FileComparisonIgnou.Properties.Resources.resources
+C:\Users\Sunny\source\repos\FileComparisonIgnou\FileComparisonIgnou\obj\Debug\FileComparisonIgnou.csproj.GenerateResource.cache
+C:\Users\Sunny\source\repos\FileComparisonIgnou\FileComparisonIgnou\obj\Debug\FileComparisonIgnou.csproj.CoreCompileInputs.cache
+C:\Users\Sunny\source\repos\FileComparisonIgnou\FileComparisonIgnou\obj\Debug\FileComparisonIgnou.exe
+C:\Users\Sunny\source\repos\FileComparisonIgnou\FileComparisonIgnou\obj\Debug\FileComparisonIgnou.pdb
+C:\Users\Sunny\source\repos\FileComparisonIgnou\FileComparisonIgnou\obj\Debug\ChooseFiles.g.cs
+C:\Users\Sunny\source\repos\FileComparisonIgnou\FileComparisonIgnou\obj\Debug\ChooseFiles.baml
+C:\Users\Sunny\source\repos\FileComparisonIgnou\FileComparisonIgnou\obj\Debug\FileComparisonIgnou_Content.g.cs
+C:\Users\Sunny\source\repos\FileComparisonIgnou\FileComparisonIgnou\obj\Debug\FileComparisonIgnou.FileComparisonForm.resources
